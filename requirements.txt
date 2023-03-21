@@ -1,0 +1,4 @@
+prompt-toolkit==1.0.14
+Pygments==2.13.0
+PyInquirer==1.0.3
+xmltodict==0.13.0
